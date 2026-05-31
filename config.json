@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionfave",
+        "uuid": 10530078,
+        "checksum": "byzpk8"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
